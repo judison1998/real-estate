@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1007882924775",
+    "project_id": "realestate-5d246",
+    "storage_bucket": "realestate-5d246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007882924775:android:bac9291c137a892735a842",
+        "android_client_info": {
+          "package_name": "com.example.real_estate_uganda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007882924775-dkc27dievshm8bfqvd1vv9rmfsj76nrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.real_estate_uganda",
+            "certificate_hash": "85f41801d4e61a557fa2c8180a4be6b22b61e772"
+          }
+        },
+        {
+          "client_id": "1007882924775-sa09h0o7an1u0ebpe09stdrhonp9vtcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqvWyMGS6wrb736Ly7DMt1fiwt5suOvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007882924775-sa09h0o7an1u0ebpe09stdrhonp9vtcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
